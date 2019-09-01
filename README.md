@@ -1,6 +1,13 @@
 # Parking Lot
 AWS Lambda & dynamoDB parking application
 
+## Screenshots
+![api_gateway](./Screenshots/api_gateway.png "API Gateway - Resources")
+![dynamo_indexes](./Screenshots/dynamo_indexes.png "dynamoDB - Indexes")
+![dynamo_items](./Screenshots/dynamo_items.png "dynamoDB - Items")
+![dynamo_overview](./Screenshots/dynamo_overview.png "dynamoDB - Overview")
+![api_gateway](./Screenshots/lambda_parkinglot.png "Lambda Functions - parkingLot")
+
 ## Usage
 Host: 
 ```
