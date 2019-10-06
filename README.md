@@ -1,5 +1,5 @@
-# Parking Lot
-AWS Lambda & dynamoDB parking application
+# Parking Lot Management Cloud Application
+AWS Lambda & dynamoDB parking lot management cloud application.
 
 ## Screenshots
 ![api_gateway](./Screenshots/api_gateway.png "API Gateway - Resources")
